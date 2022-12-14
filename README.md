@@ -3,6 +3,7 @@ This code reproduces the figures from
 "Plasmonic sensors beyond the phase matching condition: a simplified  approach" 
 
 By Alessandro Tuniz, Alex Y. Song, Giuseppe Della Valle, and C. Martijn de Sterke 
+
 MDPI Sensors (2022)
 
 For research purposes only.
