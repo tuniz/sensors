@@ -14,6 +14,9 @@ Creative Commons License (LICENSE-CC-BY-NC-SA).
 
 Written by Alessandro Tuniz
 
+main.ipynb can be run in its entirety to reproduce all figures in the paper
+examples/load_modes_plot_transmission.ipynb allows you to load relevant effective index tables and obtain the transmission through a device of length L
+
 Paper Abstract: 
 
 The conventional approach to optimising plasmonic sensors is typically based
