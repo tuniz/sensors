@@ -4,7 +4,7 @@ This code reproduces the figures from
 
 By Alessandro Tuniz, Alex Y. Song, Giuseppe Della Valle, and C. Martijn de Sterke 
 
-Submitted to MDPI Sensors (2022)
+Sensors 22(24), 9994 (2022) https://doi.org/10.3390/s22249994
 
 For research purposes only.
 
